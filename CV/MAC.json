@@ -11,8 +11,8 @@
       "title": "Web Developer | DevOps | HTML | CSS | JavaScript | Python | React.js | Node.js | Bootstrap| Express.js | Kubernetes | Azure | Docker",
       "description": "¡Hola!\n\nSoy un desarrollador web full-stack con la titulacion del bootcamp de web developer de Ironhack España. Me caracteriza la pasión, el empeño que pongo en todo lo que me propongo, la constancia, la organización y las ganas de aprender y mejorar cada día.\n\nMi objetivo es formar parte de un equipo con la misma pasión, que promueva buenas prácticas de desarrollo y con el que pueda aportar y aprender de ellos y ellas cada día.\n\nDurante el tiempo que llevo dedicándome al sector he tenido la posibilidad de trabajar en proyectos individuales y grupales lo que me ha permitido adquirir experiencia tanto en el desarrollo front-end como back-end, he desarrollado habilidades de trabajo en equipo tanto como algunas habilidades de liderazgo. También destacan mis habilidad de comunicación y enseñanza debido a mi anterior puesto como maestro de educación primaria.\n\nSi buscas a una persona comprometida, con muchas ganas de trabajar, de seguir creciendo personal y profesionalmente y gran capacidad de trabajar en equipo y adaptabilidad puedes contactarme nachosanson6@gmail.com",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/5d3ff2f5-6a38-47f2-bd29-6c2843769251_linkedin-photo-44163.linkedin-photo-44163",
-        "alt": "24/08/27/5d3ff2f5-6a38-47f2-bd29-6c2843769251_linkedin-photo-44163.linkedin-photo-44163"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/058200fd-d841-4b9a-9d53-94ccd5632df9_linkedin-photo-44163.linkedin-photo-44163",
+        "alt": "24/08/27/058200fd-d841-4b9a-9d53-94ccd5632df9_linkedin-photo-44163.linkedin-photo-44163"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -25,6 +25,62 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/ignacio-sanson"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ironhack",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/069b14ee-a772-4eb2-8f0e-9106ce49665f_linkedin-photo-44163.linkedin-photo-44163",
+            "alt": "24/08/27/069b14ee-a772-4eb2-8f0e-9106ce49665f_linkedin-photo-44163.linkedin-photo-44163"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Web Full-Stack junior",
+            "startDate": "2023-07-01",
+            "challenges": [
+              {
+                "description": "Desarrollador web full-stack.\n\nDesarrollamos en equipos y de forma individual proyectos.\n\nFunciones:\n\n- Maquetación web.\n- Desarrollo y mantenimiento de interfaces de usuarios.\n- Desarrollo de la lógica del servidor.\n- Creación de API's\n- Gestión de base de datos.\n- Planificación y organización de proyectos.\n- Cumplimiento de objetivos específicos.\n\nHerramientas de trabajo:\n\n- HTML 5\n- CSS\n- JavaScript\n- React JS\n- Node.js\n- MongoDB\n- Bootstrap\n\nOtras herramientas:\n\n- Visual Studio Code\n- Postman\n\nGitHub => https://github.com/nachosanson6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Colegio Miramadrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/f612619a-9f37-460f-842b-c6037626ebbc_linkedin-photo-44163.linkedin-photo-44163",
+            "alt": "24/08/27/f612619a-9f37-460f-842b-c6037626ebbc_linkedin-photo-44163.linkedin-photo-44163"
+          }
+        },
+        "roles": [
+          {
+            "name": "Maestro de enseñanza primaria",
+            "startDate": "2019-09-01",
+            "challenges": [
+              {
+                "description": "Skills: Aptitudes de organización · Comprensión lectora · Escucha activa · Respeto · Adaptación · Trabajar con niños · Trabajo en equipo · Docencia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Colegio Menesiano Madrid - Menesianos Madrid"
+        },
+        "roles": [
+          {
+            "name": "Maestro de enseñanza primaria",
+            "startDate": "2019-02-01",
+            "finishDate": "2019-04-30"
+          }
+        ]
       }
     ]
   },
@@ -89,87 +145,30 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Web Developer",
+        "name": "Desarrollo de páginas web, contenido digital/multimedia y recursos informáticos",
         "startDate": "2023-07-01",
         "institution": {
-          "name": "Ironhack",
-          "description": "Bootcamp impartido por la escuela Ironhack de desarrollador web. "
-        },
-        "finishDate": "2023-09-01",
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Express",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JSON",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
+          "name": "Ironhack Spain",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/7c4e75ff-5aa8-440b-b528-b3e23b671b7c_linkedin-photo-44163.linkedin-photo-44163",
+            "alt": "24/08/27/7c4e75ff-5aa8-440b-b528-b3e23b671b7c_linkedin-photo-44163.linkedin-photo-44163"
           }
-        ]
+        },
+        "finishDate": "2023-09-30"
       },
       {
-        "studyType": "certification",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Web Developer Course",
-        "startDate": "2023-06-01",
+        "name": "DevOps , Tecnología informática/Tecnología de sistemas informáticos",
+        "startDate": "2023-10-01",
         "institution": {
-          "name": "Ironhack"
-        },
-        "finishDate": "2023-09-01",
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Express",
-            "type": "technology"
-          },
-          {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JSON",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
+          "name": "Ironhack Spain",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/264bcd9e-b66e-432a-97ef-5262fff0c9e4_linkedin-photo-44163.linkedin-photo-44163",
+            "alt": "24/08/27/264bcd9e-b66e-432a-97ef-5262fff0c9e4_linkedin-photo-44163.linkedin-photo-44163"
           }
-        ]
+        },
+        "finishDate": "2023-12-31"
       }
     ]
   },
