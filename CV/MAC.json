@@ -11,8 +11,8 @@
       "title": "Web Developer | DevOps | HTML | CSS | JavaScript | Python | React.js | Node.js | Bootstrap| Express.js | Kubernetes | Azure | Docker",
       "description": "¡Hola!\n\nSoy un desarrollador web full-stack con la titulacion del bootcamp de web developer de Ironhack España. Me caracteriza la pasión, el empeño que pongo en todo lo que me propongo, la constancia, la organización y las ganas de aprender y mejorar cada día.\n\nMi objetivo es formar parte de un equipo con la misma pasión, que promueva buenas prácticas de desarrollo y con el que pueda aportar y aprender de ellos y ellas cada día.\n\nDurante el tiempo que llevo dedicándome al sector he tenido la posibilidad de trabajar en proyectos individuales y grupales lo que me ha permitido adquirir experiencia tanto en el desarrollo front-end como back-end, he desarrollado habilidades de trabajo en equipo tanto como algunas habilidades de liderazgo. También destacan mis habilidad de comunicación y enseñanza debido a mi anterior puesto como maestro de educación primaria.\n\nSi buscas a una persona comprometida, con muchas ganas de trabajar, de seguir creciendo personal y profesionalmente y gran capacidad de trabajar en equipo y adaptabilidad puedes contactarme nachosanson6@gmail.com",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/058200fd-d841-4b9a-9d53-94ccd5632df9_linkedin-photo-44163.linkedin-photo-44163",
-        "alt": "24/08/27/058200fd-d841-4b9a-9d53-94ccd5632df9_linkedin-photo-44163.linkedin-photo-44163"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/cc811888-07b8-4e6c-8c00-4e6c1a77585a_linkedin-photo-44163.linkedin-photo-44163",
+        "alt": "24/08/27/cc811888-07b8-4e6c-8c00-4e6c1a77585a_linkedin-photo-44163.linkedin-photo-44163"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -34,8 +34,8 @@
         "organization": {
           "name": "Ironhack",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/069b14ee-a772-4eb2-8f0e-9106ce49665f_linkedin-photo-44163.linkedin-photo-44163",
-            "alt": "24/08/27/069b14ee-a772-4eb2-8f0e-9106ce49665f_linkedin-photo-44163.linkedin-photo-44163"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/6b45d2b1-4a15-41d1-998c-ae8d1a75e873_linkedin-photo-44163.linkedin-photo-44163",
+            "alt": "24/08/27/6b45d2b1-4a15-41d1-998c-ae8d1a75e873_linkedin-photo-44163.linkedin-photo-44163"
           }
         },
         "roles": [
@@ -54,8 +54,8 @@
         "organization": {
           "name": "Colegio Miramadrid",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/f612619a-9f37-460f-842b-c6037626ebbc_linkedin-photo-44163.linkedin-photo-44163",
-            "alt": "24/08/27/f612619a-9f37-460f-842b-c6037626ebbc_linkedin-photo-44163.linkedin-photo-44163"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/04fb01c9-33c0-4fec-96c9-dc97005c4fe6_linkedin-photo-44163.linkedin-photo-44163",
+            "alt": "24/08/27/04fb01c9-33c0-4fec-96c9-dc97005c4fe6_linkedin-photo-44163.linkedin-photo-44163"
           }
         },
         "roles": [
@@ -100,7 +100,19 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "CSS",
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure Functions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -112,7 +124,25 @@
       },
       {
         "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ionic",
           "type": "technology"
         }
       },
@@ -124,19 +154,55 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "Linux",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "React",
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PowerShell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
           "type": "technology"
         }
       }
@@ -150,8 +216,8 @@
         "institution": {
           "name": "Ironhack Spain",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/7c4e75ff-5aa8-440b-b528-b3e23b671b7c_linkedin-photo-44163.linkedin-photo-44163",
-            "alt": "24/08/27/7c4e75ff-5aa8-440b-b528-b3e23b671b7c_linkedin-photo-44163.linkedin-photo-44163"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/8b9431da-01e8-4acf-905c-d303c145f78c_linkedin-photo-44163.linkedin-photo-44163",
+            "alt": "24/08/27/8b9431da-01e8-4acf-905c-d303c145f78c_linkedin-photo-44163.linkedin-photo-44163"
           }
         },
         "finishDate": "2023-09-30"
@@ -164,8 +230,8 @@
         "institution": {
           "name": "Ironhack Spain",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/264bcd9e-b66e-432a-97ef-5262fff0c9e4_linkedin-photo-44163.linkedin-photo-44163",
-            "alt": "24/08/27/264bcd9e-b66e-432a-97ef-5262fff0c9e4_linkedin-photo-44163.linkedin-photo-44163"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/aad3b2ba-10b2-4d30-9375-41f4c653a0e0_linkedin-photo-44163.linkedin-photo-44163",
+            "alt": "24/08/27/aad3b2ba-10b2-4d30-9375-41f4c653a0e0_linkedin-photo-44163.linkedin-photo-44163"
           }
         },
         "finishDate": "2023-12-31"
@@ -222,23 +288,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "CSS",
-        "type": "technology"
-      },
-      {
         "name": "HTML",
-        "type": "technology"
-      },
-      {
-        "name": "JavaScript",
-        "type": "technology"
-      },
-      {
-        "name": "NodeJS",
-        "type": "technology"
-      },
-      {
-        "name": "React",
         "type": "technology"
       }
     ],
