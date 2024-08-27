@@ -1,18 +1,18 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Ignacio",
       "surnames": "Sansón Delgado",
-      "title": "Web Developer | HTML | CSS | JavaScript | React.js | Node.js | Bootstrap| Express.js | Tech Lover",
+      "title": "Web Developer | DevOps | HTML | CSS | JavaScript | Python | React.js | Node.js | Bootstrap| Express.js | Kubernetes | Azure | Docker",
       "description": "¡Hola!\n\nSoy un desarrollador web full-stack con la titulacion del bootcamp de web developer de Ironhack España. Me caracteriza la pasión, el empeño que pongo en todo lo que me propongo, la constancia, la organización y las ganas de aprender y mejorar cada día.\n\nMi objetivo es formar parte de un equipo con la misma pasión, que promueva buenas prácticas de desarrollo y con el que pueda aportar y aprender de ellos y ellas cada día.\n\nDurante el tiempo que llevo dedicándome al sector he tenido la posibilidad de trabajar en proyectos individuales y grupales lo que me ha permitido adquirir experiencia tanto en el desarrollo front-end como back-end, he desarrollado habilidades de trabajo en equipo tanto como algunas habilidades de liderazgo. También destacan mis habilidad de comunicación y enseñanza debido a mi anterior puesto como maestro de educación primaria.\n\nSi buscas a una persona comprometida, con muchas ganas de trabajar, de seguir creciendo personal y profesionalmente y gran capacidad de trabajar en equipo y adaptabilidad puedes contactarme nachosanson6@gmail.com",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/25/b7695858-42af-47e1-83d4-31cfb74ac165_whatsapp-image-2023-.jpeg",
-        "alt": "WhatsApp Image 2023-08-18 at 10.58.58.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/5d3ff2f5-6a38-47f2-bd29-6c2843769251_linkedin-photo-44163.linkedin-photo-44163",
+        "alt": "24/08/27/5d3ff2f5-6a38-47f2-bd29-6c2843769251_linkedin-photo-44163.linkedin-photo-44163"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -20,53 +20,11 @@
         "region": "Comunidad de Madrid",
         "municipality": "Madrid"
       }
-    }
-  },
-  "experience": {
-    "jobs": [
+    },
+    "relevantLinks": [
       {
-        "organization": {
-          "name": "Ironhack"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Web Full-Stack junior",
-            "startDate": "2023-07-01",
-            "challenges": [
-              {
-                "description": "Desarrollador web full-stack.\n\nDesarrollamos en equipos y de forma individual proyectos.\n\nFunciones:\n\n- Maquetación web.\n- Desarrollo y mantenimiento de interfaces de usuarios.\n- Desarrollo de la lógica del servidor.\n- Creación de API's\n- Gestión de base de datos.\n- Planificación y organización de proyectos.\n- Cumplimiento de objetivos específicos.\n\nHerramientas de trabajo:\n\n- HTML 5\n- CSS\n- JavaScript\n- React JS\n- Node.js\n- MongoDB\n- Bootstrap\n\nOtras herramientas:\n\n- Visual Studio Code\n- Postman\n\nGitHub => https://github.com/nachosanson6"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Colegio Miramadrid"
-        },
-        "roles": [
-          {
-            "name": "Maestro de enseñanza primaria",
-            "startDate": "2019-09-01",
-            "challenges": [
-              {
-                "description": "Skills: Respeto · Adaptación · Trabajo en equipo · Aptitudes de organización · Escucha activa · Trabajar con niños · Docencia · Comprensión lectora"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Colegio Menesiano Madrid - Menesianos Madrid"
-        },
-        "roles": [
-          {
-            "name": "Maestro de enseñanza primaria",
-            "startDate": "2019-02-01",
-            "finishDate": "2019-04-30"
-          }
-        ]
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/ignacio-sanson"
       }
     ]
   },
@@ -74,10 +32,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -217,18 +177,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/ignacio-sanson",
+          "URL": "https://linkedin.com/in/ignacio-sanson",
           "type": "linkedin"
         }
       ],
       "contactMails": [
         "nachosanson6@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "675239429",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
